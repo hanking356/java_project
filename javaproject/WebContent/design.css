@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+div {
+	text-align:center;
+}
+
+#cs {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+#ip {
+	text-align:right;
+}
+
+#tit {
+	word-spacing: 100px;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+input {
+  width:800px;
+}
